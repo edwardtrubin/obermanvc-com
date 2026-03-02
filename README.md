@@ -1812,7 +1812,7 @@ Thanks to everyone who has contributed to World Monitor:
 [@aa5064](https://github.com/aa5064),
 [@cwnicoletti](https://github.com/cwnicoletti),
 [@facusturla](https://github.com/facusturla),
-[@toasterbook88](https://github.com/toasterbook88)
+[@toasterbook88](https://github.com/toasterbook88) .
 
 ---
 
